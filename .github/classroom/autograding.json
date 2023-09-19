@@ -1,0 +1,184 @@
+{
+  "tests": [
+    {
+      "name": "IdentificaSigno",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/01IdentificaSigno",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Licencia",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/02Licencia",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "TipoTriangulo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/03TipoTriangulo",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Maximo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/04Maximo",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Ordena",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/05Ordena",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "BMI",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/06BMI",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "BisiestoDiaSig",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/07BisiestoDiaSig",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "PuntoCircunferencia",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/08PuntoCircunferencia",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "CmaKmMtCm",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/09CmaKmMtCm",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Cuadrante",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/10Cuadrante",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Cuadratica",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/11Cuadratica",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "PiedraPapelTijera",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/12PiedraPapelTijera",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "PassFailGrade",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/13PassFailGrade",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "LargestOfThree",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/14LargestOfThree",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "ParkingFare",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/15ParkingFare",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Quadrant2D",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/16Quadrant2D",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "NextDay",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/17NextDay",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "SoloBisiesto",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/18SoloBisiesto",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
